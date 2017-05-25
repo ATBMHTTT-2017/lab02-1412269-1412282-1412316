@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1412269** Hà Mạnh Kiệt (KietHa)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412282** Nguyễn Hoàng Lân (NguyenHoangLan)
 * [x] **1412316** Đặng Nhật Minh (DangNhatMinh96)
 
 ## Yêu cầu
